@@ -5,7 +5,7 @@
 3. Dokumenty jsou doručovány prostřednictvím e-mailu a všechny musí být podepsány kvalifikovaným elektronickým podpisem.
 4. Ze Seznamu rozhodců se vyberou podle Výběrového klíče tři rozhodci, kteří jsou případ oprávněni projednat a nezávisle na sobě o něm rozhodnout. Po vykonaném platném hlasování je rozhodce ustanoveným rozhodcem.
 5. Vybraný rozhodce není povinen hlasovat.
-5. Každý rozhodce hlasující rozhodce pošle hodnocení a odůvodnění na adresu info@arbitrust.org do 72 hodin od okamžiku výběru. Pokud vybraný rozhodce nerozhodne, přechází pravomoc rozhodce na dalšího rozhodce v souladu s pravidlem Výběrového klíče.
+5. Každý rozhodce hlasující rozhodce pošle hodnocení a odůvodnění na adresu info@arbitrust.org do 72 hodin od okamžiku výběru. Pokud vybraný rozhodce nerozhodne včas, je vyloučen a přechází pravomoc rozhodce na dalšího rozhodce v souladu s pravidlem Výběrového klíče.
 6. Rozhodce může návrhu jenom vyhovět, nebo ho zamítnout.
 7. Rozhodce je povinen zdržet se hlasování, pokud je přesvědčen, že je v dané věci podjatý, nebo je přesvědčen, že nemá potřebné znalosti pro rozhodnutí sporu.
 8. Po třech platných hlasech jsou dokumenty předány prvnímu ustanovenému rozhodci, který je zároveň předsedajícím rozhodcem. Předsedající rozhodce je povinen vyhotovit Rozhodčí nález s uvedením odůvodnění jednotlivých rozhodců a jejich hlasů a odeslat ho stranám sporu v elektronické podobě, podepsaný kvalifikovaným podpisem a tak, aby splňoval náležitosti stanovené zákonem.
