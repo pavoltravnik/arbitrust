@@ -13,3 +13,4 @@
 10. Ustanoveným rozhodcům náleží odměna ve výši poplatku složeném žalobcem.
 11. Náklady rozhodčího řízení nese tá strana, která ve sporu neuspěla.  Poplatek rozhodčího řízení se dělí mezi arbitry rovným dílem a činí celkem 6.000 CZK a musí být složena předem.
 12. Rozhodce je dle zákona i dle procesních pravidel povinen zachovat o rozhodčím řízení a jeho obsahu mlčenlivost.
+13. Rozhodčí řízení se koná v České republice.
