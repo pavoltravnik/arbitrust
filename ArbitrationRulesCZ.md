@@ -15,3 +15,4 @@
 12. Rozhodce je dle zákona i dle procesních pravidel povinen zachovat o rozhodčím řízení a jeho obsahu mlčenlivost.
 13. Rozhodčí řízení se koná v České republice.
 14. Řízení je výlučně písemné a bez jednání.
+15. Náklady řízení, které vznikly soudu provedením procesních úkonů hradí strana, která procesní úkon navrhla provést, prostřednictvím předsedajícího rozhodce.
